@@ -1,59 +1,104 @@
-# 📊 Sales Performance Dashboard (Power BI Project)
+# 🏥 Healthcare Admissions Dashboard – Power BI Project
 
-This interactive dashboard showcases key sales performance metrics for a global retail dataset from 2014 to 2017. It was created entirely in Power BI and demonstrates core data analysis and visualization skills expected from a modern data analyst.
+This Power BI dashboard presents a comprehensive analysis of hospital patient admissions, outcomes, department-wise trends, and critical case insights. The project simulates a real-world healthcare dataset with unstructured data, making it a strong demonstration of end-to-end data analysis, cleaning, transformation, and visualization skills.
 
 ---
 
-## 🧰 Tools & Technologies
+## 📌 Project Objective
+
+To design and develop a fully interactive healthcare dashboard using Power BI that enables:
+
+- Trend tracking of patient admissions over time
+- Outcome distribution insights
+- Department-level workload analysis
+- KPI cards for executive-level summary
+- Dynamic filtering by gender and department
+
+---
+
+## 📊 Key Features
+
+- **Interactive KPIs**: Total Patients, Average Stay Duration, % Critical Cases, Recovery Rate
+- **Time Series Analysis**: Monthly admissions trend using cleaned date columns
+- **Categorical Breakdown**: Department-wise and Outcome-wise visualizations
+- **Data Cleaning**: Replaced nulls, standardized inconsistent labels, created custom columns
+- **Slicers**: Real-time filtering by Gender and Department
+- **Grouped Insights**: Combined rare outcomes into “Other” category for better clarity
+
+---
+
+## 🧹 Data Cleaning & Preparation
+
+The original dataset was intentionally unstructured to simulate real-world messiness:
+
+- Converted Excel serial dates to actual date format
+- Trimmed and capitalized categorical values
+- Handled `(Blank)` values by replacing with `"Unknown"` or `"Unassigned"`
+- Created calculated columns for `MonthYear`, `Stay Duration`, and grouped outcomes
+
+---
+
+## 🛠 Tools & Technologies
+
 - **Power BI Desktop**
-- **DAX** (Data Analysis Expressions)
-- **Power Query**
-- **AI-Powered Insights (ChatGPT-assisted)**
+- Power Query M Language
+- DAX (Data Analysis Expressions)
+- Excel (source data)
 
 ---
 
-## 🔍 Objective
-To analyze and present key sales, profit, and discount metrics in an interactive format that allows stakeholders to identify performance trends across regions, categories, and products.
+## 📁 Project Files
+
+| File Name                           | Description                                 |
+|------------------------------------|---------------------------------------------|
+| `Healthcare_Admissions_Dashboard.pbix` | Power BI project file                      |
+| `Healthcare_Dashboard.pdf`         | Exported PDF of full dashboard              |
+| `Healthcare_Dashboard.png`         | Preview image of the dashboard              |
+| `README.md`                        | This documentation file                     |
 
 ---
 
-## 📈 Dashboard Features
-- **KPI Cards** for Total Sales, Profit, Quantity, Orders, and Discount
-- **Monthly Sales Trend Line Chart**
-- **Sales by Sub-Category (Grouped by Category)**
-- **Geo Map showing Sales by State**
-- **Profit vs Discount by Region (Stacked Column)**
-- **Profit by Product Name (Tree Map)**
-- **Interactive Slicers** for Region, Category, Segment
+## 🎯 Skills Demonstrated
+
+- Real-world data cleaning and transformation
+- DAX measures and calculated columns
+- KPI card and slicer integration
+- Building interactive visuals
+- Dashboard design best practices
 
 ---
 
-## 🌟 Key Insights
-- Highest sales were observed in **December 2016**
-- **Western region** leads in total sales, but not always in profit
-- Some sub-categories (like Tables and Machines) had **high discounts but low profits**
-- A few products consistently **underperformed in profit margins**
+## 🧠 Insights You Can Derive
+
+- Which department sees the highest number of patients?
+- What is the average length of stay in the hospital?
+- How many patients are marked as critical?
+- What percentage of patients recovered vs. deceased?
+- How does patient data change month-to-month?
 
 ---
 
-## 📎 File Details
-- `Sales_Performance_Dashboard.pbix` – Power BI report file
-- `screenshots/` – Preview images of the dashboard
-- `README.md` – This documentation
+## 📷 Dashboard Preview
 
-
----
-
-## 📌 Status
-✅ Completed – ready for portfolio  
-📌 Project 1 of 3 for Power BI hands-on mastery
+> *(Attach your dashboard image or GIF here)*  
+![Dashboard Preview](./Healthcare_Dashboard.png)
 
 ---
 
-## 📣 Author
-**Nikhilesh A** – Aspiring Data Analyst | Power BI Enthusiast  
-Built as part of a guided portfolio journey to land top data analyst roles in 2025.
+## 🙋‍♀️ About Me
+
+I’m Nikki, a BTech Bioinformatics undergrad and aspiring Data Analyst, focused on building real-world, AI-powered dashboards using Power BI and Python. Connect with me on [LinkedIn](https://www.linkedin.com) (add your link).
 
 ---
 
+## 🔗 Connect / Portfolio
 
+- 🌐 Portfolio: *(coming soon / link to Notion or Drive)*
+- 📧 Email: *(your email address)*
+- 📂 More Projects: [GitHub Repos](https://github.com/yourusername)
+
+---
+
+## 📌 Next Project
+
+Stay tuned for my next portfolio project: **Finance Dashboard** 💹
