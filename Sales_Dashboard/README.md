@@ -44,12 +44,6 @@ To analyze and present key sales, profit, and discount metrics in an interactive
 
 ---
 
-## 📌 Status
-✅ Completed – ready for portfolio  
-📌 Project 1 of 3 for Power BI hands-on mastery
-
----
-
 ## 📣 Author
 **Nikhilesh A** – Aspiring Data Analyst | Power BI Enthusiast  
 Built as part of a guided portfolio journey to land top data analyst roles in 2025.
