@@ -52,7 +52,6 @@ The original dataset was intentionally unstructured to simulate real-world messi
 | File Name                           | Description                                 |
 |------------------------------------|---------------------------------------------|
 | `Healthcare_Admissions_Dashboard.pbix` | Power BI project file                      |
-| `Healthcare_Dashboard.pdf`         | Exported PDF of full dashboard              |
 | `Healthcare_Dashboard.png`         | Preview image of the dashboard              |
 | `README.md`                        | This documentation file                     |
 
@@ -83,22 +82,5 @@ The original dataset was intentionally unstructured to simulate real-world messi
 > *(Attach your dashboard image or GIF here)*  
 ![Dashboard Preview](./Healthcare_Dashboard.png)
 
----
 
-## 🙋‍♀️ About Me
 
-I’m Nikki, a BTech Bioinformatics undergrad and aspiring Data Analyst, focused on building real-world, AI-powered dashboards using Power BI and Python. Connect with me on [LinkedIn](https://www.linkedin.com) (add your link).
-
----
-
-## 🔗 Connect / Portfolio
-
-- 🌐 Portfolio: *(coming soon / link to Notion or Drive)*
-- 📧 Email: *(your email address)*
-- 📂 More Projects: [GitHub Repos](https://github.com/yourusername)
-
----
-
-## 📌 Next Project
-
-Stay tuned for my next portfolio project: **Finance Dashboard** 💹
