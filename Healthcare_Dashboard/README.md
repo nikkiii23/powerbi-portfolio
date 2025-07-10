@@ -75,12 +75,7 @@ The original dataset was intentionally unstructured to simulate real-world messi
 - What percentage of patients recovered vs. deceased?
 - How does patient data change month-to-month?
 
----
 
-## 📷 Dashboard Preview
-
-> *(Attach your dashboard image or GIF here)*  
-![Dashboard Preview](./Healthcare_Dashboard.png)
 
 
 
